@@ -1,21 +1,28 @@
 body {
-    color: grey;
+    color: black;
     font-family: Arial, sans-serif;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
     }
 a {
   color: red;
 }
 
 a:visited {
-  color: red;
+  color: #835015;
 }
 a:hover {
-  color: green;
+  color: grey;
 }
 
 #header {
   text-align: center;
-  color: blue;
+  color: #C81717;
+  background-color: ##F6D4D4;
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 #content {
