@@ -1,7 +1,17 @@
 body {
-    color: black;
+    color: grey;
     font-family: Arial, sans-serif;
     }
+a {
+  color: red;
+}
+
+a:visited {
+  color: red;
+}
+a:hover {
+  color: green;
+}
 
 #header {
   text-align: center;
@@ -9,5 +19,6 @@ body {
 }
 
 #content {
+  color: black;
   background-color: yellow;
 }
